@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "SAN zip catch",
+  "id": "id-san-zip-catchment",
+  "dataFormats": ["table"],
+  "info": {
+    "description": "SAN zip catch",
+    "author": {
+      "name": "Nam Le"
+    },
+    "keywords": [],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
